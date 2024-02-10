@@ -1,0 +1,19 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//rviz/urdf_config.rviz
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+-- Symlinking: /home/himaj/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml

@@ -1,0 +1,18 @@
+[31mCMake Error at CMakeLists.txt:10 (find_package):
+  By not providing "Findmy_py_pkg_DIR.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "my_py_pkg_DIR", but CMake did not find one.
+
+  Could not find a package configuration file provided by "my_py_pkg_DIR"
+  with any of the following names:
+
+    my_py_pkg_DIRConfig.cmake
+    my_py_pkg_dir-config.cmake
+
+  Add the installation prefix of "my_py_pkg_DIR" to CMAKE_PREFIX_PATH or set
+  "my_py_pkg_DIR_DIR" to a directory containing one of the above files.  If
+  "my_py_pkg_DIR" provides a separate development package or SDK, be sure it
+  has been installed.
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

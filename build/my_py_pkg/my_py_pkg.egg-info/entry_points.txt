@@ -1,0 +1,3 @@
+[console_scripts]
+joint_state_pub = my_py_pkg.joint_state_pub:main
+

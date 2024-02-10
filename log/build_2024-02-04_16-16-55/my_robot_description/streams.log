@@ -1,0 +1,24 @@
+[0.170s] Invoking command in '/home/himaj/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/himaj/ros2_ws/build/my_robot_description -- -j12 -l12
+[0.203s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.363s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.389s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.389s]   By not providing "Findmy_py_pkg.cmake" in CMAKE_MODULE_PATH this project
+[0.389s]   has asked CMake to find a package configuration file provided by
+[0.389s]   "my_py_pkg", but CMake did not find one.
+[0.389s] 
+[0.389s]   Could not find a package configuration file provided by "my_py_pkg" with
+[0.389s]   any of the following names:
+[0.389s] 
+[0.389s]     my_py_pkgConfig.cmake
+[0.389s]     my_py_pkg-config.cmake
+[0.389s] 
+[0.389s]   Add the installation prefix of "my_py_pkg" to CMAKE_PREFIX_PATH or set
+[0.390s]   "my_py_pkg_DIR" to a directory containing one of the above files.  If
+[0.390s]   "my_py_pkg" provides a separate development package or SDK, be sure it has
+[0.390s]   been installed.
+[0.390s] 
+[0.390s] [0m
+[0.390s] -- Configuring incomplete, errors occurred!
+[0.390s] See also "/home/himaj/ros2_ws/build/my_robot_description/CMakeFiles/CMakeOutput.log".
+[0.392s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.567s] Invoked command in '/home/himaj/ros2_ws/build/my_robot_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/himaj/ros2_ws/build/my_robot_description -- -j12 -l12

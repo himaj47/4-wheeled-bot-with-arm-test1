@@ -1,0 +1,17 @@
+[0.996s] Invoking command in '/home/himaj/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/himaj/ros2_ws/build/my_py_pkg/prefix_override:/home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/himaj/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[1.293s] running develop
+[1.486s] running egg_info
+[1.486s] writing my_py_pkg.egg-info/PKG-INFO
+[1.487s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.487s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.487s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.487s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.489s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.493s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.494s] running build_ext
+[1.494s] Creating /home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.495s] Installing joint_state_pub script to /home/himaj/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.495s] 
+[1.495s] Installed /home/himaj/ros2_ws/build/my_py_pkg
+[1.495s] running install_data
+[1.522s] Invoked command in '/home/himaj/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/himaj/ros2_ws/build/my_py_pkg/prefix_override:/home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/himaj/ros2_ws/build/my_py_pkg/build --no-deps install_data
